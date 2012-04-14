@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="battleship_background">#ffe6f0ff</color>
+<color name="battleship_hilite">#FFFFFFFF</color>
+<color name="battleship_light">#64c6d4ef</color>
+<color name="battleship_dark">#6456648f</color>
+<color name="battleship_black">#FF000000</color>
+<color name="battleship_white">#FFFFFFFF</color>
+<color name="battleship_selected">#64ff8000</color>
+<color name="battleship_hit">#FF0033</color>
+<color name="battleship_miss">#33CCFF</color>
+</resources>
+

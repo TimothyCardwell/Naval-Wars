@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, NavalWarsActivity!</string>
+    <string name="app_name">Naval Wars</string>
+    <string name="main_title_bar">A Game of Naval Domination</string>
+    <string name="multiplayer_title_bar">:(</string>
+    <string name="difficulty">Select the difficulty you desire</string>
+    <string-array name="diff_array">
+        <item>Easy</item>
+        <item>Hard</item>
+    </string-array>
+    <string name="options_title_bar">Options</string>
+</resources>
